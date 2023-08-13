@@ -1,0 +1,1 @@
+const answer2 = prompt('Как тебя зовут?', 'Имя')
